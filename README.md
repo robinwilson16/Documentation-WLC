@@ -8,6 +8,6 @@ These are written using the following tools:
 
 | System        | Purpose                 | Download                                                   |
 |---------------|-------------------------|------------------------------------------------------------|
-| Visual Studio | For developing the code | [Visual Studio 2019] (https://visualstudio.microsoft.com/) |
+| Visual Studio | For developing the code | https://visualstudio.microsoft.com/                        |
 |               |                         |                                                            |
 |               |                         |                                                            |
