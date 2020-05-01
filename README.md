@@ -26,6 +26,6 @@ To-Do
 ## Guides for Web-Based Systems
 To-Do
 
-![alt text](https://www.wlc.ac.uk/templates/qlue/images/west-london-college.png =250x "West London College Logo")
+<img src="https://www.wlc.ac.uk/templates/qlue/images/west-london-college.png" width="250" />
 
 [logo]: https://www.wlc.ac.uk/templates/qlue/images/west-london-college.png "West London College Logo"
