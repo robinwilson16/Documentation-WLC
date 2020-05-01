@@ -27,6 +27,7 @@ The computer must be running [Visual Studio](https://visualstudio.microsoft.com/
 SSIS packages are written in Visual Studio and are required when a process involves moving data around using .CSV and .XLSX files such as for integration of cloud-based systems where it is not possible to access databases directly for either obtaining or uploading data. Where SQL databases can be accessed directly, a single stored procedure would be a simpler approach.
 
 First the SSIS project is developed using Visual Studio and exists in an SSIS project:
+
 ![SSIS Projects][SSIS1]
 
 ## Guides for Web-Based Systems
