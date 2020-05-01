@@ -1,4 +1,4 @@
-# Documentation for Systems Developed at West London College
+# Documentation for Systems Developed at West London College ![WLC Logo][logo]
 
 A variety of systems have been developed at West London College and these can be either web-based systems, SSIS jobs in SQL Server or standard SQL Stored Procedures.
 
@@ -25,3 +25,5 @@ To-Do
 
 ## Guides for Web-Based Systems
 To-Do
+
+[logo]: https://www.wlc.ac.uk/templates/qlue/images/west-london-college.png "West London College Logo"
