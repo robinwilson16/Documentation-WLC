@@ -27,5 +27,6 @@ To-Do
 To-Do
 
 <img src="https://www.wlc.ac.uk/templates/qlue/images/west-london-college.png" width="250" />
+<img src="[logo]" width="250" />
 
 [logo]: https://www.wlc.ac.uk/templates/qlue/images/west-london-college.png "West London College Logo"
