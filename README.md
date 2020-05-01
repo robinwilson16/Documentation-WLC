@@ -32,4 +32,4 @@ First the SSIS project is developed using Visual Studio and exists in an SSIS pr
 ## Guides for Web-Based Systems
 To-Do
 
-[SSIS1]: /images/SSIS1.png "SSIS Projects"
+[SSIS1]: images/SSIS1.png "SSIS Projects"
